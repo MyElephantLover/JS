@@ -1,1 +1,1 @@
-# This is a place for JavaScript Practice
+# JavaScript Coding Practice
